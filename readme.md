@@ -2,7 +2,7 @@
 
 ## Cloned Paytm site with the help of Tailwind CSS
 
-### Abhishek Kulkarni
+### Pranjal Giri 
 
 #### Learning Outcome
 
