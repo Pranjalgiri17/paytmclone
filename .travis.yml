@@ -1,0 +1,11 @@
+language: scala
+jdk:
+  - openjdk11
+cache:
+  directories:
+    - "$HOME/.ivy2/cache"
+    - "$HOME/.sbt"
+services:
+  - mongodb
+script:
+  - sbt +clean +test +package +doc
